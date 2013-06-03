@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<catalog xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog" prefer="system">
+    <system systemId="file:/C:/Users/Antho/Documents/NetBeansProjects/ClientLourdMetar/src/fr/epsi/schema/MetarSchema.xml" uri="xml-resources/jaxb/metar-binding/MetarSchema.xml.xsd"/>
+    <system systemId="file:/C:/Users/Antho/Documents/NetBeansProjects/ClientLourdMetar/src/fr/epsi/schema/MetarSchemaV2.xml" uri="xml-resources/jaxb/metar-binding2/MetarSchemaV2.xml.xsd"/>
+    <system systemId="file:/C:/Users/Antho/Documents/NetBeansProjects/ClientLourdMetar/src/fr/epsi/schema/FlickrGetPhoto.xml" uri="xml-resources/jaxb/FlickrGetPhoto/FlickrGetPhoto.xml.xsd"/>
+    <system systemId="file:/C:/Users/Antho/Documents/NetBeansProjects/ClientLourdMetar/src/fr/epsi/schema/ListCodeMetar.xml" uri="xml-resources/jaxb/MetarCodes/ListCodeMetar.xml.xsd"/>
+</catalog>

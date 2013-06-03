@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<schemas xmlns='http://xml.netbeans.org/schema/JAXBWizConfig' destdir='build/generated-sources/jaxb' projectName='ClientLourdMetar' version='1.0'>
+	<schema type='-xmlschema' package='fr.epsi.jaxb_binding' name='metar-binding2'>
+		<xjc-options>
+		</xjc-options>
+		<schema-sources>
+			<schema-source location='xml-resources/jaxb/metar-binding2/MetarSchemaV2.xml.xsd' origLocation='src/fr/epsi/schema/MetarSchemaV2.xml'/>
+		</schema-sources>
+		<bindings>
+		</bindings>
+		<catalog/>
+	</schema>
+	<schema type='-xmlschema' package='fr.epsi.flickr.get_photo' name='FlickrGetPhoto'>
+		<xjc-options>
+		</xjc-options>
+		<schema-sources>
+			<schema-source location='xml-resources/jaxb/FlickrGetPhoto/FlickrGetPhoto.xml.xsd' origLocation='src/fr/epsi/schema/FlickrGetPhoto.xml'/>
+		</schema-sources>
+		<bindings>
+		</bindings>
+		<catalog/>
+	</schema>
+	<schema type='-xmlschema' package='fr.epsi.metar_codes' name='MetarCodes'>
+		<xjc-options>
+		</xjc-options>
+		<schema-sources>
+			<schema-source location='xml-resources/jaxb/MetarCodes/ListCodeMetar.xml.xsd' origLocation='src/fr/epsi/schema/ListCodeMetar.xml'/>
+		</schema-sources>
+		<bindings>
+		</bindings>
+		<catalog/>
+	</schema>
+</schemas>
